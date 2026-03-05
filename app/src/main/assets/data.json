@@ -1,0 +1,281 @@
+{
+  "type": "playable_data",
+  "playable_data": {
+    "status": "fetched",
+    "playlists": [
+      {
+        "playlist_name": "Sample Images Working",
+        "playlist_id": "69a14d886a20f7b3d6227a7b",
+        "duration": null,
+        "layouts": [
+          {
+            "id": "95fbda7d76b448e18069751342aa1eb5",
+            "duration": 87,
+            "displayConditions": {
+              "conditionId": "1",
+              "type": "once",
+              "config": {
+                "fromDate": null,
+                "toDate": null,
+                "fromTime": null,
+                "toTime": null,
+                "activeDays": [],
+                "unitTemperature": null,
+                "fromTemperature": null,
+                "toTemperature": null,
+                "locationCity": null,
+                "weatherCity": null,
+                "weatherPinCode": null,
+                "weatherCondition": null
+              }
+            },
+            "config": {
+              "height": 1920,
+              "width": 1080
+            },
+            "zones": [
+              {
+                "id": "1",
+                "name": null,
+                "config": {
+                  "x": 0,
+                  "y": 0,
+                  "w": 1,
+                  "h": 0.8379888268156425,
+                  "z": 0
+                },
+                "content_type": "sequence",
+                "isZoneContentStretchToFitEnabled": true,
+                "isZoneContentMuted": false,
+                "sequence": {
+                  "config": {
+                    "id": "1",
+                    "name": "",
+                    "transition": "none",
+                    "type": "sequence"
+                  },
+                  "data": [
+                    {
+                      "id": "6994030852cefc88ff8ef46f",
+                      "name": "1000175923_1765964662913_1771307782178.jpg",
+                      "path": "https://d2o2gp3gd28xa2.cloudfront.net/v3/62263c1e14f5a72ee1bdf395/1000175923_1765964662913_1771307782178.jpg",
+                      "duration": 6,
+                      "type": "image",
+                      "size": 0.28,
+                      "displayConditions": {
+                        "conditionId": "0", "type": "once", "config": { "fromDate": null, "toDate": null, "fromTime": null, "toTime": null, "activeDays": [], "unitTemperature": null, "fromTemperature": null, "toTemperature": null, "locationCity": null, "weatherCity": null, "weatherPinCode": null, "weatherCondition": null }
+                      }
+                    },
+                    {
+                      "id": "69708922691dd2d5ec702b1b",
+                      "name": "Mannat_20_Years_Diwali_Video_1761914572623_1_1763035009164_1768982801709.mp4",
+                      "path": "https://d2o2gp3gd28xa2.cloudfront.net/v3/62263c1e14f5a72ee1bdf395/adp_Mannat_20_Years_Diwali_Video_1761914572623_1_1763035009164_1768982801709.mp4",
+                      "duration": 20,
+                      "type": "video",
+                      "size": 12.39,
+                      "displayConditions": {
+                        "conditionId": "0", "type": "once", "config": { "fromDate": null, "toDate": null, "fromTime": null, "toTime": null, "activeDays": [], "unitTemperature": null, "fromTemperature": null, "toTemperature": null, "locationCity": null, "weatherCity": null, "weatherPinCode": null, "weatherCondition": null }
+                      }
+                    },
+                    {
+                      "id": "695503f37e8316c50682b0d1",
+                      "name": "poster_export_file_1767179249558.jpg",
+                      "path": "https://d2o2gp3gd28xa2.cloudfront.net/v3/62263c1e14f5a72ee1bdf395/poster_export_file_1767179249558.jpg",
+                      "duration": 6,
+                      "type": "image",
+                      "size": 0.66,
+                      "displayConditions": {
+                        "conditionId": "0", "type": "once", "config": { "fromDate": null, "toDate": null, "fromTime": null, "toTime": null, "activeDays": [], "unitTemperature": null, "fromTemperature": null, "toTemperature": null, "locationCity": null, "weatherCity": null, "weatherPinCode": null, "weatherCondition": null }
+                      }
+                    },
+                    {
+                      "id": "6964dc0ee0dfefa6722c33e6",
+                      "name": "Strawberry_1_1766562966852_1_1766591249135_1768217599196.mp4",
+                      "path": "https://d2o2gp3gd28xa2.cloudfront.net/v3/62263c1e14f5a72ee1bdf395/adp_Strawberry_1_1766562966852_1_1766591249135_1768217599196.mp4",
+                      "duration": 9,
+                      "type": "video",
+                      "size": 5.1,
+                      "displayConditions": {
+                        "conditionId": "0", "type": "once", "config": { "fromDate": null, "toDate": null, "fromTime": null, "toTime": null, "activeDays": [], "unitTemperature": null, "fromTemperature": null, "toTemperature": null, "locationCity": null, "weatherCity": null, "weatherPinCode": null, "weatherCondition": null }
+                      }
+                    },
+                    {
+                      "id": "69390d4f79b7fac4eb89c0ae",
+                      "name": "1000479511_1765346639223.jpg",
+                      "path": "https://d2o2gp3gd28xa2.cloudfront.net/v3/62263c1e14f5a72ee1bdf395/1000479511_1765346639223.jpg",
+                      "duration": 6,
+                      "type": "image",
+                      "size": 0.24,
+                      "displayConditions": {
+                        "conditionId": "0", "type": "once", "config": { "fromDate": null, "toDate": null, "fromTime": null, "toTime": null, "activeDays": [], "unitTemperature": null, "fromTemperature": null, "toTemperature": null, "locationCity": null, "weatherCity": null, "weatherPinCode": null, "weatherCondition": null }
+                      }
+                    },
+                    {
+                      "id": "69214edd018984e409ce3bb5",
+                      "name": "out2_1763624577075_1763790555655.mp4",
+                      "path": "https://d2o2gp3gd28xa2.cloudfront.net/v3/62263c1e14f5a72ee1bdf395/out2_1763624577075_1763790555655.mp4",
+                      "duration": 10,
+                      "type": "video",
+                      "size": 16.59,
+                      "displayConditions": {
+                        "conditionId": "0", "type": "once", "config": { "fromDate": null, "toDate": null, "fromTime": null, "toTime": null, "activeDays": [], "unitTemperature": null, "fromTemperature": null, "toTemperature": null, "locationCity": null, "weatherCity": null, "weatherPinCode": null, "weatherCondition": null }
+                      }
+                    },
+                    {
+                      "id": "6913041c379dabaaa24e8ede",
+                      "name": "poster_export_file_1762853915651.jpg",
+                      "path": "https://d2o2gp3gd28xa2.cloudfront.net/v3/62263c1e14f5a72ee1bdf395/poster_export_file_1762853915651.jpg",
+                      "duration": 6,
+                      "type": "image",
+                      "size": 0.75,
+                      "displayConditions": {
+                        "conditionId": "0", "type": "once", "config": { "fromDate": null, "toDate": null, "fromTime": null, "toTime": null, "activeDays": [], "unitTemperature": null, "fromTemperature": null, "toTemperature": null, "locationCity": null, "weatherCity": null, "weatherPinCode": null, "weatherCondition": null }
+                      }
+                    },
+                    {
+                      "name": "Wilyer Site ",
+                      "id": "69a6b41084e7ec120d7b1612",
+                      "path": "https://wilyer.com",
+                      "duration": 6,
+                      "type": "web",
+                      "data": {
+                        "type": "web",
+                        "web": {
+                          "url": "https://wilyer.com",
+                          "viewMode": "desktop",
+                          "renderType": "web",
+                          "type": "web",
+                          "isWebPageTransparent": false,
+                          "web": {
+                            "url": "https://wilyer.com",
+                            "viewMode": "desktop",
+                            "renderType": "web",
+                            "isWebPageTransparent": false
+                          }
+                        }
+                      },
+                      "isWebPageTransparent": false,
+                      "displayConditions": {
+                        "conditionId": "0", "type": "once", "config": { "fromDate": null, "toDate": null, "fromTime": null, "toTime": null, "activeDays": [], "unitTemperature": null, "fromTemperature": null, "toTemperature": null, "locationCity": null, "weatherCity": null, "weatherPinCode": null, "weatherCondition": null }
+                      }
+                    },
+                    {
+                      "id": "690898f9d30d9c776af5422b",
+                      "name": "poster_export_file_1762171127573.jpg",
+                      "path": "https://d2o2gp3gd28xa2.cloudfront.net/v3/62263c1e14f5a72ee1bdf395/poster_export_file_1762171127573.jpg",
+                      "duration": 6,
+                      "type": "image",
+                      "size": 0.58,
+                      "displayConditions": {
+                        "conditionId": "0", "type": "once", "config": { "fromDate": null, "toDate": null, "fromTime": null, "toTime": null, "activeDays": [], "unitTemperature": null, "fromTemperature": null, "toTemperature": null, "locationCity": null, "weatherCity": null, "weatherPinCode": null, "weatherCondition": null }
+                      }
+                    },
+                    {
+                      "id": "68d1388bc645b4fa9b5695f0",
+                      "name": "Ton_1731945286525_1758541963155.png",
+                      "path": "https://d2o2gp3gd28xa2.cloudfront.net/v3/62263c1e14f5a72ee1bdf395/Ton_1731945286525_1758541963155.png",
+                      "duration": 6,
+                      "type": "image",
+                      "size": 0.47,
+                      "displayConditions": {
+                        "conditionId": "0", "type": "once", "config": { "fromDate": null, "toDate": null, "fromTime": null, "toTime": null, "activeDays": [], "unitTemperature": null, "fromTemperature": null, "toTemperature": null, "locationCity": null, "weatherCity": null, "weatherPinCode": null, "weatherCondition": null }
+                      }
+                    },
+                    {
+                      "id": "684c62cd6fe95c4d50cd05fe",
+                      "name": "BLR_Digi_Standee_May_8_images_3_1745817573224_1746187135145_1749836493333.png",
+                      "path": "https://d2o2gp3gd28xa2.cloudfront.net/v3/62263c1e14f5a72ee1bdf395/BLR_Digi_Standee_May_8_images_3_1745817573224_1746187135145_1749836493333.png",
+                      "duration": 6,
+                      "type": "image",
+                      "size": 1.4,
+                      "displayConditions": {
+                        "conditionId": "0", "type": "once", "config": { "fromDate": null, "toDate": null, "fromTime": null, "toTime": null, "activeDays": [], "unitTemperature": null, "fromTemperature": null, "toTemperature": null, "locationCity": null, "weatherCity": null, "weatherPinCode": null, "weatherCondition": null }
+                      }
+                    }
+                  ]
+                },
+                "sequenceSchedules": []
+              },
+              {
+                "id": "2",
+                "name": null,
+                "config": {
+                  "x": 0,
+                  "y": 0.8324022346368715,
+                  "w": 1,
+                  "h": 0.16759776536312848,
+                  "z": 0
+                },
+                "content_type": "sequence",
+                "isZoneContentStretchToFitEnabled": true,
+                "isZoneContentMuted": false,
+                "sequence": {
+                  "config": {
+                    "id": "1",
+                    "name": "",
+                    "transition": "none",
+                    "type": "sequence"
+                  },
+                  "data": [
+                    {
+                      "name": "ISE City",
+                      "id": "6980aacc91e7b42e4f194fc6",
+                      "path": "https://widgets.signagecloud.in/widget/6980aacc91e7b42e4f194fc6",
+                      "duration": 10,
+                      "type": "web",
+                      "data": {
+                        "type": "web",
+                        "web": {
+                          "url": "https://widgets.signagecloud.in/widget/6980aacc91e7b42e4f194fc6",
+                          "viewMode": "desktop",
+                          "renderType": "web",
+                          "type": "web",
+                          "isWebPageTransparent": true,
+                          "web": {
+                            "url": "https://widgets.signagecloud.in/widget/6980aacc91e7b42e4f194fc6",
+                            "viewMode": "desktop",
+                            "renderType": "web",
+                            "isWebPageTransparent": true
+                          }
+                        }
+                      },
+                      "isWebPageTransparent": true,
+                      "displayConditions": {
+                        "conditionId": "0", "type": "once", "config": { "fromDate": null, "toDate": null, "fromTime": null, "toTime": null, "activeDays": [], "unitTemperature": null, "fromTemperature": null, "toTemperature": null, "locationCity": null, "weatherCity": null, "weatherPinCode": null, "weatherCondition": null }
+                      }
+                    },
+                    {
+                      "id": "6981d23c2d73dcfeee6f5423",
+                      "name": "Screenshot_2026_02_03_at_11_1770115644458.png",
+                      "path": "https://d2o2gp3gd28xa2.cloudfront.net/v3/62263c1e14f5a72ee1bdf395/Screenshot_2026_02_03_at_11_1770115644458.png",
+                      "duration": 10,
+                      "type": "image",
+                      "size": 0.06,
+                      "displayConditions": {
+                        "conditionId": "0", "type": "once", "config": { "fromDate": null, "toDate": null, "fromTime": null, "toTime": null, "activeDays": [], "unitTemperature": null, "fromTemperature": null, "toTemperature": null, "locationCity": null, "weatherCity": null, "weatherPinCode": null, "weatherCondition": null }
+                      }
+                    },
+                    {
+                      "id": "6908989b43d434e5b61b5b0b",
+                      "name": "poster_export_file_1762171027541.jpg",
+                      "path": "https://d2o2gp3gd28xa2.cloudfront.net/v3/62263c1e14f5a72ee1bdf395/poster_export_file_1762171027541.jpg",
+                      "duration": 10,
+                      "type": "image",
+                      "size": 0.43,
+                      "displayConditions": {
+                        "conditionId": "0", "type": "once", "config": { "fromDate": null, "toDate": null, "fromTime": null, "toTime": null, "activeDays": [], "unitTemperature": null, "fromTemperature": null, "toTemperature": null, "locationCity": null, "weatherCity": null, "weatherPinCode": null, "weatherCondition": null }
+                      }
+                    }
+                  ]
+                },
+                "sequenceSchedules": []
+              }
+            ]
+          }
+        ],
+        "layoutSchedules": []
+      }
+    ],
+    "playlistSchedules": []
+  }
+}
